@@ -1,11 +1,12 @@
 {
-  "name": "undici_h2_2026",
+  "name": "beyond-rubber-ducking",
   "type": "module",
   "private": true,
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
-    "export": "slidev export"
+    "export": "slidev export",
+    "mcp": "slidev mcp"
   },
   "dependencies": {
     "@slidev/cli": "^52.14.2",
