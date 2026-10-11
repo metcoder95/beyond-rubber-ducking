@@ -7,23 +7,18 @@ class: gap-8
 
 ::right::
 
-<div class="text-left pl-8">
+<div class="text-left pl-4">
 
 <v-clicks>
 
 **5. Team Ceremonies**
-
-Share victories and learnings
-
-Start with human problem-solving
-
-Celebrate the journey, not just outcomes
+- Share victories and learnings
+- Start with human problem-solving
+- Celebrate the journey, not just outcomes
 
 **6. Celebrate Creativity**
-
-Recognize problem-solving process
-
-Value the craft, not just output
+- Recognize problem-solving process
+- Value the craft, not just output
 
 </v-clicks>
 

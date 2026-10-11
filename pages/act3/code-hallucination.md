@@ -1,6 +1,6 @@
 # Real Hallucination Example
 
-```javascript
+```javascript {1|3-12|14-17|6}
 // Prompt: "Apply discount if user has loyalty points AND cart > $50"
 
 // AI Response (WRONG - business logic flaw):
@@ -11,6 +11,8 @@ function applyDiscount(cart, user) {
   }
   return cart;
 }
+
+// ... more code
 
 // Problem: Uses OR instead of AND
 // - Any user with points gets discount, even on $1 purchase

@@ -85,11 +85,23 @@ src: ./pages/act4/cognitive-debt-fatigue.md
 ---
 
 ---
+src: ./pages/act4/the-evidence.md
+---
+
+---
+src: ./pages/act4/junior-vulnerability.md
+---
+
+---
 src: ./pages/act4/result.md
 ---
 
 ---
 src: ./pages/act5/section-break.md
+---
+
+---
+src: ./pages/act5/organizational-choice.md
 ---
 
 ---

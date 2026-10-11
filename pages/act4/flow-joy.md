@@ -4,11 +4,15 @@ layout: two-cols
 
 # Flow State: The Joy
 
-Csikszentmihalyi's flow concept: optimal experience when challenge meets skill.
+Csikszentmihalyi's flow concept: **optimal experience when challenge meets skill**.
 
+<v-click>
 Time disappears. Deep engagement.
+</v-click>
 
+<v-click>
 This is why we love coding.
+</v-click>
 
 ::right::
 

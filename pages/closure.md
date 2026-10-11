@@ -8,6 +8,7 @@ layout: two-cols-header
 ::left::
 
 <div class="flex flex-col gap-4">
+  <v-clicks>
   <a href="https://github.com/metcoder95" target="_blank" class="flex items-center gap-2">
     <carbon:logo-github /> metcoder95
   </a>
@@ -20,26 +21,23 @@ layout: two-cols-header
   <a href="mailto:me@metcoder.dev" class="flex items-center gap-2">
     <carbon-email /> me@metcoder.dev
   </a>
+  </v-clicks>
 </div>
 
 ::right::
 
 <div class="flex flex-col justify-center h-full">
 
-<v-click>
+<v-clicks>
 
-<p class="text-3xl font-semibold mb-6">
+<p class="text-6xl font-semibold mb-6">
   The duck talks back.
 </p>
 
-</v-click>
-
-<v-click>
-
-<p class="text-2xl">
-  Make sure you're still steering the conversation.
+<p class="text-5xl">
+  Make sure you're still driving the conversation.
 </p>
 
-</v-click>
+</v-clicks>
 
 </div>

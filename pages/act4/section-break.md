@@ -1,3 +1,5 @@
 # Part 3
 
-The Human Cost
+<v-click>
+    <h3>The Human Cost</h3>
+</v-click>

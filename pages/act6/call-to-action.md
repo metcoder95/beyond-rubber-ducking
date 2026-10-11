@@ -1,9 +1,7 @@
 # As Tech Leads & Engineering Managers
 
-<v-clicks>
+<v-click>
 
-You are enablers and protectors
+You are enablers and protectors of human creativity
 
-of human creativity
-
-</v-clicks>
+</v-click>

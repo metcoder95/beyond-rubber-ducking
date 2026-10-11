@@ -10,6 +10,8 @@ Humans remain in control.
 
 ::right::
 
+<v-click>
+
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': { 'fontSize':'16px'}}}%%
 graph LR
@@ -23,3 +25,5 @@ graph LR
     style B fill:#9C27B0,stroke:#6A1B9A,stroke-width:3px,color:#fff
     style C fill:#4CAF50,stroke:#2E7D32,stroke-width:3px,color:#fff
 ```
+
+</v-click>

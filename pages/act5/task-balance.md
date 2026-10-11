@@ -4,8 +4,9 @@ layout: two-cols
 
 # Task Balance Framework
 
-**Delegate to AI:**
-
+<v-click>
+    <b>Delegate to AI:</b>
+</v-click>
 <v-clicks>
 
 - Boilerplate generation
@@ -17,7 +18,9 @@ layout: two-cols
 
 ::right::
 
-**Protect for Humans:**
+<v-click>
+    <b>Protect for Humans:</b>
+</v-click>
 
 <v-clicks>
 

@@ -1,3 +1,5 @@
 # These benefits are real.
 
-So why are we even here?
+<v-click>
+    So why are we even here?
+</v-click>

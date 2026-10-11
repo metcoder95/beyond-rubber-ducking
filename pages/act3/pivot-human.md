@@ -1,3 +1,7 @@
-# But broken code isn't the real problem.
+# But broken code isn't the main problem.
 
-Let's talk about what this does to *us*.
+<v-click>
+
+Let's talk about what this does to **us**.
+
+</v-click>
