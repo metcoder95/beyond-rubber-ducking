@@ -41,6 +41,10 @@ src: ./pages/act2/objective-lens.md
 ---
 
 ---
+src: ./pages/act2/legacy-code.md
+---
+
+---
 src: ./pages/act2/pivot.md
 ---
 
@@ -58,6 +62,10 @@ src: ./pages/act3/code-hallucination.md
 
 ---
 src: ./pages/act3/pivot-human.md
+---
+
+---
+src: ./pages/act3/bridge-to-human.md
 ---
 
 ---
