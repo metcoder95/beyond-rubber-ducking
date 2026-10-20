@@ -26,7 +26,7 @@ layout: two-cols-header
 
 ::right::
 
-<div class="flex flex-col justify-center h-full">
+<div class="flex flex-col justify-center h-full items-center">
 
 <v-clicks>
 
@@ -34,10 +34,16 @@ layout: two-cols-header
   The duck talks back.
 </p>
 
-<p class="text-5xl">
+<p class="text-5xl mb-6">
   Make sure you're still driving the conversation.
 </p>
 
 </v-clicks>
+
+<v-click>
+
+<img src="/assets/rubber_duck.png" class="w-32 h-32 object-contain" />
+
+</v-click>
 
 </div>

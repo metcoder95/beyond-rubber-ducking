@@ -1,5 +1,6 @@
 ---
 layout: two-cols
+class: gap-16
 ---
 
 # Flow State: The Joy
@@ -15,6 +16,8 @@ This is why we love coding.
 </v-click>
 
 ::right::
+
+<div style="margin-left: 12rem;">
 
 <v-click>
 
@@ -34,3 +37,5 @@ graph TD
 ```
 
 </v-click>
+
+</div>

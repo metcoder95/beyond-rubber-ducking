@@ -18,8 +18,10 @@ Context loss compounds over time.
 
 <v-click>
 
-<div class="flex items-center justify-center h-full">
-  <div class="text-6xl">🧠❓</div>
+<div class="flex items-center justify-center h-full gap-4">
+  <div class="text-7xl">🧠 ➕</div>
+  <img src="/assets/rubber_duck.png" class="w-20 h-20 object-contain" />
+  <div class="text-7xl">🟰 ❓</div>
 </div>
 
 </v-click>
