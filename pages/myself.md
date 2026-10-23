@@ -9,5 +9,5 @@ image: https://cdn.bsky.app/img/avatar/plain/did:plc:fnhhrkmspz3xx7c62wo3lgfe/ba
 #### My name is Carlos (a.k.a. @metcoder95)!
 
 Software Engineer@Auth0/Okta <br>
-Open Source Maintainer (Piscina, Undici, Fastify, etc.)
->(Mocking) Speaker
+Open Source Maintainer (Piscina, Undici, Fastify, etc.) <br>
+(and now) Speaker
