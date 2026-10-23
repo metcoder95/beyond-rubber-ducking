@@ -1,13 +1,8 @@
 ---
 layout: two-cols
-class: gap-8
 ---
 
-## Engagement Plan (cont.)
-
-::right::
-
-<div class="text-left pl-4">
+::left::
 
 <v-clicks>
 
@@ -16,10 +11,14 @@ class: gap-8
 - Start with human problem-solving
 - Celebrate the journey, not just outcomes
 
+</v-clicks>
+
+::right::
+
+<v-clicks>
+
 **6. Celebrate Creativity**
 - Recognize problem-solving process
 - Value the craft, not just output
 
 </v-clicks>
-
-</div>

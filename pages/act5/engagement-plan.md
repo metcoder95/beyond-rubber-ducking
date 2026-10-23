@@ -1,13 +1,10 @@
 ---
-layout: two-cols
-class: gap-8
+layout: two-cols-header
 ---
 
 ## Engagement Plan for Tech Leads & EMs
 
-::right::
-
-<div class="text-left pl-4">
+::left::
 
 <v-clicks>
 
@@ -16,11 +13,15 @@ class: gap-8
 - Preserve autonomy
 - "What did you learn?" vs "What did you ship?"
 
+</v-clicks>
+
+::right::
+
+<v-clicks>
+
 **2. Code Review Evolution**
 - "Explain this approach"
 - "Could you debug this at 2am?"
 - Celebrate understanding, not acceptance
 
 </v-clicks>
-
-</div>
